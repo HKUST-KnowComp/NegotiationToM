@@ -4,7 +4,7 @@ This repository provides the benchmark dataset in paper [NegotiationToM: A Bench
 <img src="https://github.com/HKUST-KnowComp/NegotiationToM/blob/main/Example_Figure.jpg" width="500" height="600">
 
 ## Dataset
-The NegotiationToM dataset is in NegotiationToM.rar file. To prevent the data contamination issue, we set the password for the json file and the dataSet password is "NegotiationToM".
+The NegotiationToM dataset is in NegotiationToM.zip file. To prevent the data contamination issue, we set the password for the json file and the dataSet password is "NegotiationToM".
 
 ## Reference:
 The details of this dataset and LLM performance are described in the following paper.
