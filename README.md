@@ -1,4 +1,4 @@
-# EMNLP 2024 paper NegotiationToM
+# NegotiationToM 
 This repository provides the benchmark dataset for EMNLP 2024 paper [NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding](https://arxiv.org/abs/2404.13627).
 
 <img src="https://github.com/HKUST-KnowComp/NegotiationToM/blob/main/Example_Figure.jpg" width="500" height="600">
